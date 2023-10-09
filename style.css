@@ -1,0 +1,38 @@
+#div1{
+    color: blue;
+    width: 500px;
+    padding: 30px;
+    margin: 10px;
+    border-top: 20px solid black;
+}
+
+#div2{
+    color: rgb(255, 51, 0);
+    width: 500px;
+    padding: 30px;
+    margin: 10px;
+    border-top: 20px solid black;
+}
+
+#div3{
+    color: rgb(0, 255, 106);
+    width: 500px;
+    padding: 30px;
+    margin: 10px;
+    border-top: 20px solid black;
+}
+
+#div4{
+    color: rgb(55, 56, 42);
+    width: 500px;
+    padding: 30px;
+    margin: 10px;
+    border-top: 20px solid black;
+}
+
+h1{
+    color: rgb(51, 255, 0);
+    width: 500px;
+    padding: 30px;
+    margin: 10px;
+}

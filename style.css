@@ -3,7 +3,7 @@
     width: 500px;
     padding: 30px;
     margin: 10px;
-    border-top: 20px solid black;
+    border: 20px solid black;
 }
 
 #div2{
@@ -11,7 +11,8 @@
     width: 500px;
     padding: 30px;
     margin: 10px;
-    border-top: 20px solid black;
+    border: 20px solid black;
+    margin-inline: 200px;
 }
 
 #div3{
@@ -19,7 +20,7 @@
     width: 500px;
     padding: 30px;
     margin: 10px;
-    border-top: 20px solid black;
+    border: 20px solid rgb(170, 192, 47);
 }
 
 #div4{
@@ -27,7 +28,8 @@
     width: 500px;
     padding: 30px;
     margin: 10px;
-    border-top: 20px solid black;
+    border: 20px solid black;
+    margin-inline: 200px;
 }
 
 h1{
